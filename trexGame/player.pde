@@ -18,8 +18,8 @@ class Player {
     applyForce(gravity); 
     pos.add(vel); 
     if (pos.y >= height-170) {
-          pos.y = height-170;
-          vel.mult(0);
+      pos.y = height-170;
+      vel.mult(0);
     }
     vel.add(acc); 
     vel.limit(4); 
