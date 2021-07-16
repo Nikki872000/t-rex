@@ -10,6 +10,6 @@ This repository contains the code for making our own version of Chrome's T-Rex g
 
 ## Authors 
 
-**[Adnan Shaikh](10adnan75.github.io)**
+**[Adnan Shaikh](https://github.com/10adnan75.github.io)**
 
-**[Nikita Sharma](Nikki872000.github.io)**
+**[Nikita Sharma](https://github.com/Nikki872000.github.io)**
