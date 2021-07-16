@@ -5,3 +5,11 @@ This repository contains the code for making our own version of Chrome's T-Rex g
 ---
 
 <img src = "trexgame.gif">
+
+---
+
+## Authors 
+
+**[Adnan Shaikh](10adnan75.github.io)**
+
+**[Nikita Sharma](Nikki872000.github.io)**
